@@ -1,3 +1,3 @@
-# Image-Processing---Algorithms---Python-Implementations
+# Image-Processing---Python-Implementations
 
-This is a repository for my Python implementation of several algorithms used in Image Processing. 
+This is a repository for Image Processing in Python. 
